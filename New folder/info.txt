@@ -1,1 +1,0 @@
-main colors : #47B48C vert,#1F5279 blue
